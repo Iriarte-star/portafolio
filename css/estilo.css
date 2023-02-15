@@ -17,7 +17,7 @@
         /* *********************/
         
         #inicio {
-            background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("img/jefferson-santos-9SoCnyQmkzI-unsplash.jpg");
+            background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("/img/jefferson-santos-9SoCnyQmkzI-unsplash.jpg");
             background-size: cover;
             background-position: center center;
             height: 100vh;
@@ -299,7 +299,7 @@
         /* *********************/
         
         .contenedor__skills {
-            background: linear-gradient(#1F1D2C , rgba(33, 36, 36, 0.8)), url("img/fondo-skills.jpg");
+            background: linear-gradient(#1F1D2C , rgba(33, 36, 36, 0.8)), url("/img/fondo-skills.jpg");
             background-attachment: fixed;
             background-repeat: no-repeat;
             background-size: cover;
